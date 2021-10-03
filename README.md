@@ -1,1 +1,1 @@
-# Patikadev Data Science Path Homework Solutions.
+# Patika.dev Data Science Path Homework Solutions.
